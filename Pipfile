@@ -8,6 +8,7 @@ jupyter = "*"
 numpy = "*"
 astropy = "*"
 matplotlib = "*"
+scipy = "*"
 
 [dev-packages]
 
