@@ -8,8 +8,9 @@ Coursera course [Data-driven Astronomy][1]
   - [x] [Lesson 2](week1/lesson2.ipynb)
   - [x] [Lesson 4](week1/lesson4.ipynb)
   - [x] [Lesson 6](week1/lesson6.ipynb)
-- [ ] [Week 2](week2)
-  - [ ] [Lesson 3](week2/lesson3.ipynb)
+- [x] [Week 2](week2)
+  - [x] [Lesson 3](week2/lesson3.ipynb)
+  - [x] [Lesson 5](week2/lesson5.ipynb)
 - [ ] Week 3
 - [ ] Week 4
 - [ ] Week 5
