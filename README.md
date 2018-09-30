@@ -17,7 +17,8 @@ Coursera course [Data-driven Astronomy][1]
 - [x] [Week 4](week4)
   - [x] [Lesson 3](week4/lesson3.ipynb)
   - [x] [Lesson 4](week4/lesson4.ipynb)
-- [ ] Week 5
+- [ ] [Week 5](week5)
+  - [ ] [Lesson 3](week5/lesson3.ipynb)
 - [ ] Week 6
 
  [1]: https://www.coursera.org/learn/data-driven-astronomy/
