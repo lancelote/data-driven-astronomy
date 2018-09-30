@@ -13,6 +13,7 @@ scipy = "*"
 "psycopg2-binary" = "*"
 pandas = "*"
 scikit-learn = "*"
+pydotplus = "*"
 
 [dev-packages]
 
