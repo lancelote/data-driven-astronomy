@@ -1,0 +1,10 @@
+jupyter
+numpy
+astropy
+matplotlib
+scipy
+psycopg2
+psycopg2-binary
+pandas
+scikit-learn
+pydotplus
