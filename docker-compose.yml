@@ -1,0 +1,20 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+      POSTGRES_DB: astronomy
+    ports:
+      - "5432:5432"
+    expose:
+      - "5432"
+    volumes:
+      - "./week3/data1:/data/week3/data1"
+      - "./week3/data2:/data/week3/data2"
+      - "./week3/data3:/data/week3/data3"
+      - "./week4/data1:/data/week4/data1"
+      - "./week4/data2:/data/week4/data2"
+      - "./week4/data3:/data/week4/data3"
+      - "./week4/data4:/data/week4/data4"
